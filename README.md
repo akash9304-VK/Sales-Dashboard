@@ -20,3 +20,17 @@ The dashboard provides insights into revenue, profit, orders, and average order 
 - DAX
 - Data Modeling
 - Data Visualization
+
+## Dashboard Preview
+
+### Summary Page
+![Summary](Screenshot%20(86).png)
+
+### City Analysis
+![City](Screenshot%20(88).png)
+
+### Restaurant Analysis
+![Restaurant](Screenshot%20(89).png)
+
+### Monthly Analysis
+![Month](Screenshot%20(90).png)
