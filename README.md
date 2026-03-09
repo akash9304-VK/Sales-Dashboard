@@ -27,10 +27,10 @@ The dashboard provides insights into revenue, profit, orders, and average order 
 ![Summary](Screenshot%20(86).png)
 
 ### City Analysis
-![City](Screenshot%20(88).png)
+![City](Screenshot%20(90).png)
 
 ### Restaurant Analysis
 ![Restaurant](Screenshot%20(89).png)
 
 ### Monthly Analysis
-![Month](Screenshot%20(90).png)
+![Month](Screenshot%20(88).png)
